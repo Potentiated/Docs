@@ -33,4 +33,11 @@ Please include the "pipe" `|` symbol correctly as seen above so your contributio
 | Wallet Address | Link to Work | Weight of Value Contributed (Weights) | Description of Contribution                                                                                                                                                                                                                           |
 | -------------- | ------------ |----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
+| 0x65DF6F7E5897b033CAcF77447f0fe274aa03B156 | https://github.com/MorpheusAIs/Docs/blob/main/Asset/Design%20Library.md, https://github.com/MorpheusAIs/Docs/pull/105, https://github.com/MorpheusAIs/Docs/pull/103 |20|	Administration of Socials, Design elements, infographics, FAQ reiterations, Integrations, Testing of morstats, ideations of AMM, testing of 0.0.6 implementation,integrations and update of integrations.
+| 0x5694baAEaCa2C419306c9Bf5dbfdAC7F92c7704c | https://github.com/MorpheusAIs/Docs/blob/main/Asset/Design%20Library.md | 3 |  AnonG updated Design Element Collections and Creation of Assets  |
+| 0xe4D28FE30829A825B7379EF28d5d91174436C899 |  https://github.com/MorpheusAIs/Docs/blob/main/Asset/Design%20Library.md| 10 | AnonP Major Design on Logo and meetup conference/meetup deck,New updated infographics|
+| 0xb4d9266Fa58CaB6b87bA3031BE50625f5121c63e |  https://github.com/MorpheusAIs/Docs/blob/main/Asset/Design%20Library.md| 5 | AnonK Major Design work on guides, deck and new professional designs|
 | 0xb627956e21Ac0599a9db21BB4A841D49a1c4d27D | https://github.com/MorpheusAIs/Docs/pull/67 | 1 | WhitePaper translated to Slovenian |
+
+
+
